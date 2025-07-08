@@ -1,0 +1,12 @@
+Electronic Credit Ledger
+
+,,,GSTIN,01AACCN6194P1Z3,
+,,,Legal Name,AIR INDIA LIMITED,
+,,,From,01/10/2024,
+,,,To,31/10/2024
+Sr.No,Date,Reference No.,Tax Period if any ,Description ,Transaction Type[Debit (DR) / Credit (CR)],,,Credit / Debit,,,,Balance Available
+,,,,,,Integrated Tax,Central Tax,State Tax,CESS,Total,Integrated Tax,Central Tax,State Tax,CESS,Total
+" -","-","-","-","Opening Balance","-","-","-","-","-","-","0","0","756828","0","756828",
+" 1","19/10/2024","AA0109241826552","Sep-24","ITC accrued through - Inputs","Credit","5781635","1142593","1142593","0","8066821","5781635","1142593","1899421","0","8823649",
+" 2","19/10/2024","DI0110240031838","Sep-24","Other than reverse charge","Debit","5781635","1142593","1899421","0","8823649","0","0","0","0","0",
+" -","-","-","-","Closing Balance","-","-","-","-","-","-","0","0","0","0","0",

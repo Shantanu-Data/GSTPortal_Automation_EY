@@ -1,0 +1,11 @@
+﻿Electronic Credit Reversal and Re-claimed Statement
+
+,,,GSTIN,01AACCN6194P1Z3,
+,,,Legal Name,AIR INDIA LIMITED,
+,,,From,01/10/2024,
+,,,To,31/10/2024
+S.No. ,Date,Reference No.,Return period,Description,ITC Claimed (Table 4A(5)) (₹) (All Other ITC),,,,ITC Reversal (Table 4B(2)) (₹) Eligible to Re-claim,,,,ITC Reclaimed (Table 4D(1)) (₹) ,,,,Closing Balance (₹) (Opening Balance +  Reversal (4B(2)) - Reclaimed (4D(1))),,,,
+,,,,,Integrated Tax,Central Tax,State/UT Tax,Cess,Integrated Tax,Central Tax,State/UT Tax,Cess,Integrated Tax,Central Tax,State/UT Tax,Cess,Integrated Tax,Central Tax,State/UT Tax,Cess
+1,-,-,-,Opening Balance,-,-,-,-,-,-,-,-,-,-,-,-,-88834.13,39709854.04,39709854.04,25752
+2,19/10/2024,AA0109241826552,Sep-24,Filing of Form GSTR-3B,5839779.9,5709719.7,5709719.7,6438,4692.17,4558411.98,4558411.98,6438,0,578242.01,578242.01,0,-84141.96,43690024.01,43690024.01,32190,
+3,-,-,-,Closing Balance,-,-,-,-,-,-,-,-,-,-,-,-,-84141.96,43690024.01,43690024.01,32190
